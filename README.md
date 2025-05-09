@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I'm Kamil - 17 yo React Native Specialist & Open Source Enthusiast at [TheWidlarzGroup.](https://www.thewidlarzgroup.com/)
+### I'm Kamil - 18 yo React Native Specialist & Open Source Enthusiast at [TheWidlarzGroup.](https://www.thewidlarzgroup.com/)
 #### Fell free to reach out!
 - Mail: [moskalakamil07@gmail.com](mailto:moskalakamil07@gmail.com)
 - Twitter: [@moskalakamil](https://x.com/moskalakamil)
